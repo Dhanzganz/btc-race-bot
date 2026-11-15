@@ -1,3 +1,9 @@
+[![make.fun bounty](https://make.fun/badge/btc-race-24h-20261115-0828.svg)](https://make.fun/bounty/btc-race-24h-20261115-0828)
+[![rank](https://make.fun/badge/btc-race-24h-20261115-0828/Dhanzganz/btc-race-bot/rank.svg)](https://make.fun/bounty/btc-race-24h-20261115-0828)
+[![reward](https://make.fun/badge/btc-race-24h-20261115-0828/Dhanzganz/btc-race-bot/reward.svg)](https://make.fun/bounty/btc-race-24h-20261115-0828)
+
+Entry for the make.fun bounty: [Race a BTC trading bot live for 24 hours](https://make.fun/bounty/btc-race-24h-20261115-0828)
+
 # btc-race-24h — panic-bounce cbBTC bot
 
 A deterministic trading bot for make.fun's **btc-race-24h-20261115-0828**
